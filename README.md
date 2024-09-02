@@ -124,6 +124,6 @@ These insights can significantly impact future sales strategies and customer eng
 ## How to Run the Project
 
 ### Prerequisites:
-- Python 3.x
+- Python 3.0.0
 - Jupyter Notebook or any Python IDE
-- Required Python libraries (can be installed using `requirements.txt`)
+- Required Python libraries.
