@@ -11,7 +11,6 @@ This project involves the analysis of Diwali sales data sourced from a CSV file 
 - [Tools and Libraries](#tools-and-libraries)
 - [Data Preprocessing and Cleaning](#data-preprocessing-and-cleaning)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Visual Analysis](#visual-analysis)
 - [Conclusion](#conclusion)
 - [How to Run the Project](#how-to-run-the-project)
 
@@ -78,25 +77,6 @@ The project leverages the following Python libraries:
 - The EDA revealed significant differences in purchasing habits based on occupation and location.
 - Certain regions exhibited a higher propensity for purchasing specific product categories.
 - Younger age groups showed a preference for certain types of products, influencing stock and marketing strategies.
-
-## Visual Analysis
-
-Using Seaborn, Matplotlib, and Pandas, the following visualizations were created:
-
-1. Distribution Plots:
-   - Visualized the distribution of customer demographics such as age and purchase amounts using histograms and KDE plots.
-
-2. Bar Charts:
-   - Created bar charts to compare the sales performance of different product categories and regions.
-
-3. Heatmaps:
-   - Developed heatmaps to illustrate correlations between various customer attributes and purchase behaviors.
-
-4. Box Plots:
-   - Used box plots to identify the range of purchase amounts across different customer segments.
-
-5. Pair Plots:
-   - Generated pair plots to explore relationships between multiple variables simultaneously.
 
 ### Key Findings from Visual Analysis:
 
